@@ -1,3 +1,3 @@
-module github.com/gusazevedo/chatservice
+module github.com/gusazevedo/chat-service
 
 go 1.18
